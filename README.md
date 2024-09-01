@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Vamshi Virat Indrakanti</h1>
+<h1 align="center">Hi 👋, I'm Sai Vamshi Virat </h1>
 <h3 align="center">I'm a self-taught passionate FrontEnd developer from India 🇮🇳</h3>
 
 
