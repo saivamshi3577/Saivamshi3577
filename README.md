@@ -21,13 +21,13 @@
 
 #### Top Repositories
 
+<a href="https://github.com/saivamshi/3577/EveryElement">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/saivamshi/3577/IMS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
-<a href="[https://github.com/saivamshi/3577](https://github.com/saivamshi3577/IMS)/">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/](https://github.com/saivamshi3577/IMS)?username=saivamshi3577&repo=saivamshi3577&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="[https://github](https://github.com/saivamshi3577/EveryElement)?username=saivamshi3577&repo=saivamshi3577&theme=buefy" />
-</a>
 
 <!--
 **saivamshi3577/Saivamshi3577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
