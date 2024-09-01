@@ -22,10 +22,10 @@
 #### Top Repositories
 
 <a href="https://github.com/saivamshi/3577/EveryElement">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saivamshi3577&repo=EveryElement&theme=buefy" />
 </a>
 <a href="https://github.com/saivamshi/3577/IMS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saivamshi3577&repo=IMS&theme=buefy" />
 </a>
 
 
