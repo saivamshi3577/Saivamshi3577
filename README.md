@@ -1,6 +1,5 @@
-  ## Hi there 👋 Hi 👋, I'm Saivamshi Chary Virat
-
-  ## A dedicated Frontend Developer from India
+<h1 align="center">Hi 👋, I'm Sai Vamshi Virat Indrakanti</h1>
+<h3 align="center">A Dedicated MERN Stack Developer from India</h3>
 
 
 
