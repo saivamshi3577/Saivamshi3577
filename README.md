@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sai Vamshi Virat Indrakanti</h1>
-<h3 align="center">A Dedicated MERN Stack Developer from India</h3>
+<h3 align="center">I'm a self-taught passionate FrontEnd developer from India 🇮🇳</h3>
 
 
+- 💬 Ask me about **React, Node, Expressjs , MongoDB**
 
+- 📫 How to reach me **saivamshichary2000@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/sai-vamshi-chary-45495a272/](https://www.linkedin.com/in/sai-vamshi-chary-45495a272/)
 
+**About me**
 
+- 💼 FrontEnd Engineer at [IT Monks Solutions Private Limited](http://itmonkssolutions.com/)
 
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
+| <a href="https://github.com/saivamshi3577"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saivamshi3577&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="saivamshi's github stats" /></a> | <a href="https://github.com/saivamshi3577"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivamshi3577&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <!--
 **saivamshi3577/Saivamshi3577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
