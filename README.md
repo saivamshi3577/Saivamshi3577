@@ -1,6 +1,6 @@
-## Hi there 👋 Hi 👋, I'm Saivamshi Chary Virat
+  ## Hi there 👋 Hi 👋, I'm Saivamshi Chary Virat
 
-## A dedicated Frontend Developer from India
+  ## A dedicated Frontend Developer from India
 
 
 
