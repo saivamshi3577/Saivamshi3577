@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Vamshi Virat </h1>
-<h3 align="center">I'm a self-taught passionate FrontEnd developer from India 🇮🇳</h3>
+<h3 align="center">I'm a self-taught passionate Full Stack developer from India 🇮🇳</h3>
 
 
-- 💬 Ask me about **React, Node, Expressjs , MongoDB**
+- 💬 Ask me about **React, Node, Expressjs , MongoDB ,PostgreSQL ,AWS ,GCP**
 
 - 📫 How to reach me **saivamshichary2000@gmail.com**
 
@@ -10,7 +10,7 @@
 
 **About me**
 
-- 💼 FrontEnd Engineer at [IT Monks Solutions Private Limited](http://itmonkssolutions.com/)
+- 💼 Full Stack Developer at [Fusion EvalX Private Limited](https://fusionevalx.ai)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
