@@ -1,225 +1,182 @@
 <div align="center">
 
-# Hi 👋, I'm Sai Vamshi Virat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi%20There!%20I'm%20Sai%20Vamshi%20Virat&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Apps&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Web+%26+Mobile+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=FF6B6B,FFD93D,6BCB77,4D96FF&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Web+%26+Mobile+Applications;Exploring+AI+Agents+%26+LLM+Integrations;Always+Learning+New+Technologies" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=saivamshi3577&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/saivamshi3577?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/saivamshi3577?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=saivamshi3577&label=Profile%20Views&color=FF6B6B&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/saivamshi3577?style=for-the-badge&logo=github&color=4D96FF&labelColor=black"/>
+<img src="https://img.shields.io/github/stars/saivamshi3577?style=for-the-badge&logo=github&color=FFD93D&labelColor=black"/>
 </p>
+
+<a href="https://www.linkedin.com/in/sai-vamshi-chary-45495a272/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:saivamshichary2000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/saivamshi3577">
+<img src="https://img.shields.io/badge/GitHub-Follow-6BCB77?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-# 🚀 About Me
+### 🚀 About Me
 
-💼 **Senior Full Stack Developer** at **Fusion Eval X Private Limited**
+```yaml
+name: Sai Vamshi Virat
+role: Senior Full Stack Developer @ Fusion Eval X Private Limited
+location: India
+focus: Web, Mobile & Cloud-native Applications
+currently_exploring: [AI Integrations, React Native (Expo), AWS, GCP, System Design, Microservices]
+ask_me_about: [React.js, React Native, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, AWS, GCP, Docker]
+email: saivamshichary2000@gmail.com
+```
 
-💻 Passionate about building scalable **Web Applications**, **Mobile Applications**, and **Cloud-Based Solutions**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=100%"/>
 
-🌱 Currently exploring
+### ⚡ Tech Stack
 
-- AI Integrations
-- React Native (Expo)
-- AWS Cloud
-- Google Cloud
-- System Design
-- Microservices
+<table align="center">
+<tr>
+<td align="center" width="18%"><img src="https://img.shields.io/badge/Frontend-FF6B6B?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,vite" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Backend-4D96FF?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,python" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Database-6BCB77?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FFD93D?style=for-the-badge&labelColor=black"/></td>
+<td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vercel,netlify,linux" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Tools-C77DFF?style=for-the-badge"/></td>
+<td><img src="https://skillicons.dev/icons?i=vscode,postman,npm,yarn,bash" /></td>
+</tr>
+</table>
 
-💬 Ask me about
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-- React.js
-- React Native
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL
-- REST APIs
-- AWS
-- GCP
-- Docker
-
-📫 **Email**
-
-> **saivamshichary2000@gmail.com**
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sai-vamshi-chary-45495a272/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:saivamshichary2000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/saivamshi3577">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vercel,netlify,linux" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm,yarn,bash" />
-</p>
-
----
-
-# 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saivamshi3577&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivamshi3577&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=saivamshi3577&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivamshi3577&layout=compact&theme=radical&hide_border=true"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saivamshi3577&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saivamshi3577&theme=radical&hide_border=true"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saivamshi3577&theme=algolia&column=7&margin-w=10&margin-h=10"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saivamshi3577&theme=redical&hide_border=true&bg_color=1a1b27&color=FF6B6B&line=4D96FF&point=FFD93D"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=100%"/>
 
-# 📈 Contribution Graph
+### 🏆 Trophies
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saivamshi3577&theme=react-dark&hide_border=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=saivamshi3577&theme=radical&column=7&margin-w=10&margin-h=10&no-frame=true"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-# 🚀 Featured Project
+### 🐍 Contribution Snake
 
-## 🎯 RoleReady Mobile
+<p align="center">
+<img src="https://raw.githubusercontent.com/saivamshi3577/saivamshi3577/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-AI-powered Career Intelligence Platform built using
+> 💡 If the snake image is blank, the workflow isn't set up yet in your profile repo — happy to give you the exact GitHub Action to add it.
 
-- React Native (Expo)
-- Node.js
-- Express.js
-- PostgreSQL
-- Supabase
-- AI Integration
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=100%"/>
 
-⭐ Repository
+### 🚀 Featured Project
 
-https://github.com/saivamshi3577/RoleReadyMobile
+<table align="center">
+<tr>
+<td width="65%">
 
----
+**🎯 RoleReady Mobile**
+AI-powered Career Intelligence Platform
 
-# 💻 What I Build
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-6BCB77?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4D96FF?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 
-✅ Enterprise HRMS
+🔗 [View Repository](https://github.com/saivamshi3577/RoleReadyMobile)
 
-✅ Recruitment Platforms
+</td>
+</tr>
+</table>
 
-✅ AI-powered Applications
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-✅ Mobile Apps
+### 💻 What I Build
 
-✅ Admin Dashboards
+<table align="center">
+<tr>
+<td>🟥 Enterprise HRMS</td>
+<td>🟦 Recruitment Platforms</td>
+<td>🟩 AI-powered Applications</td>
+</tr>
+<tr>
+<td>🟨 Mobile Apps</td>
+<td>🟪 Admin Dashboards</td>
+<td>🟧 REST APIs</td>
+</tr>
+<tr>
+<td>🟥 Authentication Systems</td>
+<td>🟦 Cloud Deployments</td>
+<td>🟩 Scalable Backend Systems</td>
+</tr>
+</table>
 
-✅ REST APIs
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=100%"/>
 
-✅ Authentication Systems
+### 📚 Currently Learning
 
-✅ Cloud Deployments
+<p align="center">
+<img src="https://img.shields.io/badge/Advanced%20System%20Design-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-6BCB77?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Integrations-C77DFF?style=for-the-badge"/>
+</p>
 
-✅ PostgreSQL Databases
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-✅ Scalable Backend Systems
+### 🎯 2026 Goals
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/🚀%20Build%20impactful%20SaaS%20products-FF6B6B?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/📱%20Publish%20production--ready%20mobile%20apps-4D96FF?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/☁️%20Master%20AWS%20Cloud%20Architecture-FFD93D?style=flat-square&labelColor=black"/><br/>
+<img src="https://img.shields.io/badge/🤖%20Build%20AI--powered%20enterprise%20platforms-6BCB77?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/🌍%20Contribute%20more%20to%20Open%20Source-C77DFF?style=flat-square"/>
+</p>
 
-# 📚 Currently Learning
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=100%"/>
 
-- Advanced System Design
-- Kubernetes
-- AWS Architecture
-- AI Agents
-- LLM Integrations
-- Performance Optimization
+<div align="center">
 
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build impactful SaaS products
-- 📱 Publish production-ready mobile apps
-- ☁ Master AWS Cloud Architecture
-- 🤖 Build AI-powered enterprise platforms
-- 🌍 Contribute more to Open Source
-
----
-
-# 💡 Quote
+### 💡 Quote
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
 
 ---
 
-<div align="center">
-
 ### Thanks for visiting ❤️
 
-⭐ Don't forget to star repositories if you find them useful.
+⭐ Don't forget to star repositories if you find them useful — and feel free to reach out for collabs!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
